@@ -1,4 +1,4 @@
-# controle-chaves-2024
+# Controle-chaves-2024
 O Projeto é um running exampe da disciplina de Análise e Projeto de Sistemas.
 #Equipe
 |Nome|Responsabilidade|E-mail|GitHub|
